@@ -2,10 +2,10 @@
 
 **Mechatronics Engineer| Cyber-Physical Systems Specialization | Automation & Robotics | Logistics | Data Analysis**
 
-### 🛠️ What I do and what I’m looking for:
-- 🔭 Currently working on: Expanding my data analytics portfolio and honing my skills in software development for robotics.
-- 🌱 Learning: Advanced data analytics techniques to apply to the optimization of industrial processes and logistics.
-- 👯 Looking to collaborate on: Open-source projects in robotics (ROS 2), automation, or data analytics with a social impact.
+### What I do and what I’m looking for:
+- 🛠️ Currently working on: Expanding my data analytics portfolio and honing my skills in software development for robotics.
+- 🧠 Learning: Advanced data analytics techniques to apply to the optimization of industrial processes and logistics.
+- 👀 Looking to collaborate on: Open-source projects in robotics (ROS 2), automation, or data analytics with a social impact.
 - ⚡ Fun fact: When I’m not programming or doing CAD design, you’ll find me working out.
   
 ### 💻 Technologies:
